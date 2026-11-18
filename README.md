@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/35010884/README.md)
 # Bank Arunika Credit Risk Analysis 2023–2026
 
 **PostgreSQL · SQL · Power BI · DAX** — studi kasus analisis risiko kredit dan penagihan untuk bank fiktif, data Jan 2023 – Sep 2026.
