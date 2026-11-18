@@ -4,7 +4,7 @@
 
 ![Halaman Credit Quality di dashboard Power BI](images/02_credit_quality.png)
 
-**File proyek:** [Dashboard (PDF)](dashboard/Bank_Arunika_Dashboard.pdf) · [Deck presentasi (PDF)](deck/Bank_Arunika_Analisis_Risiko_Kredit.pdf) · [File Power BI](dashboard/Bank_Arunika.pbix) · [Tabel master (SQL)](sql/01_table_master.sql) · [Data quality log](docs/data_quality_log.md)
+**File proyek:** [Video demo (YouTube)](https://youtu.be/OvUkP3_Of6I) · [Dashboard (PDF)](dashboard/Bank_Arunika_Dashboard.pdf) · [Deck presentasi (PDF)](deck/Bank_Arunika_Analisis_Risiko_Kredit.pdf) · [File Power BI](dashboard/Bank_Arunika.pbix) · [Tabel master (SQL)](sql/01_table_master.sql) · [Data quality log](docs/data_quality_log.md)
 
 ## Project Overview
 
@@ -173,6 +173,10 @@ Lima dari 34 temuan ternyata wajar setelah diperiksa (misalnya sektor usaha koso
 ## Dashboard dan Key Findings
 
 Dashboard Power BI 4 halaman. Susunan setiap halaman sama: card angka utama di atas, grafik bukti di tengah, dan Key Findings di kanan bawah. Teks dashboard memakai bahasa Inggris.
+
+[![Video demo dashboard Power BI Bank Arunika](https://img.youtube.com/vi/OvUkP3_Of6I/maxresdefault.jpg)](https://youtu.be/OvUkP3_Of6I)
+
+▶ *Klik gambar di atas untuk menonton demo dashboard interaktif di YouTube.*
 
 ### 1. Portfolio
 
